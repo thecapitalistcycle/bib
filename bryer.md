@@ -2,6 +2,8 @@
 
 Citation keys for notes while working through "Accounting for Value" and references looked up (recursively) from it.
 
+See [README](README.md) and [Marx-Engels Works](ME.tsv) for citation keys beginning with M, E, ME, MECW or Cn with n 0-4.
+
 # D
 
 ### Michel De Vroey 
