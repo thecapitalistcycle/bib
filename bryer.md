@@ -65,6 +65,53 @@ RB A4V "Accounting for Value in Marx's Capital", 2017
 
 RB A4H "Accounting for History in Marx's Capital", "forthcoming 2017", unseen, unpublished?
 
+RB 2012
+
+@article{Bryer-2012,
+ doi       = {10.1016/j.cpa.2012.09.003},
+ title     = {Americanism and financial accounting theory – Part 1: Was America born capitalist?},
+ author    = {Rob Bryer},
+ publisher = {Elsevier Science},
+ journal   = {Critical Perspectives on Accounting},
+ issn      = {1045-2354,1095-9955},
+ year      = {2012},
+ volume    = {23},
+ issue     = {7-8},
+ url       = {http://gen.lib.rus.ec/scimag/10.1016%2Fj.cpa.2012.09.003 }
+}
+
+RB 2013a
+
+@article{Bryer-2013,
+ doi       = {10.1016/j.cpa.2012.09.002},
+ title     = {Americanism and financial accounting theory – Part 2: The ‘modern business enterprise’, America's transition to capitalism, and the genesis of management accounting},
+ author    = {Bryer, Rob},
+ publisher = {Elsevier Science},
+ journal   = {Critical Perspectives on Accounting},
+ issn      = {1045-2354,1095-9955},
+ year      = {2013},
+ volume    = {24},
+ issue     = {4-5},
+ pages     = {273--318},
+ url       = {http://gen.lib.rus.ec/scimag/10.1016%2Fj.cpa.2012.09.002 }
+}
+
+RB 2013b
+
+@article{Bryer-2013,
+ doi       = {10.1016/j.cpa.2012.09.004},
+ title     = {Americanism and financial accounting theory – Part 3: Adam Smith, the rise and fall of socialism, and Irving Fisher's theory of accounting},
+ author    = {Bryer, Rob},
+ publisher = {Elsevier Science},
+ journal   = {Critical Perspectives on Accounting},
+ issn      = {1045-2354,1095-9955},
+ year      = {2013},
+ volume    = {24},
+ issue     = {7-8},
+ pages     = {572--615},
+ url       = {http://gen.lib.rus.ec/scimag/10.1016%2Fj.cpa.2012.09.004 }
+}
+
 RB 2014-09 (obsoleted by RB A4V)
 Marx’s accounting solution to the ‘transformation problem’
 Rob Bryer, 
