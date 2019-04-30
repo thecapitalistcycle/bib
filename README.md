@@ -2,6 +2,11 @@
 
 To be included in Zotero using citation keys implicitly defined here.
 
+## [Afterword](Afterword.md)
+
+Long excerpt from appendix to Rubin "History of Economic Thought" for review
+of selection and fix of OCR errors and format.
+ 
 ## [Marx and Engels works](ME.tsv)
 
 Initial quick fix to correlate common citation keys like "Marx 1998" for Capital Vol 3 with the WorkCode and 
