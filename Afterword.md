@@ -684,17 +684,30 @@ abbreviations and contractions:
 
 **[all italics except capitalized abbreviations in left column]**
 
+_______________|____
+
 TSV | Theone s of Surplus Value
+
 1857 Introduction | Introduction to A Contribution to the Critique of Political Economy
+
 Preface | Preface to A Contribution to the Critique of Political Economy
+
 CCPE | A Contribution to the Critique of Political Economy
+
 PP | The Poverty of Philosophy
+
 MCCT | Marx's Capital and Capitalism Today
+
 Principles | On the Principles of Political Economy and Taxation
+
 AVEV | Absolute Value and Exchange Value
+
 Essays | Essays on Marx's Theory of Value
+
 Dialektik | Dialektik der Kategorien
+
 History | History of Economic Thought
+
 Introduction | Introduction to The Works and Correspon­dence of David Ricardo
 
 **[end]**
